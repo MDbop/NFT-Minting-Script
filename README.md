@@ -22,7 +22,7 @@ This Python script facilitates the minting of NFTs from **multiple wallets** on 
 1. Clone this repository.
 2. Install the required Python packages:
 
-pip install web3 python-dotenv
+`pip install web3 python-dotenv`
 
 
 
@@ -32,7 +32,7 @@ pip install web3 python-dotenv
 
 Run the script with Python:
 
-python mint_nft.py
+`python mint_nft.py`
 
 
 The script will perform the minting operation based on the parameters defined within it. Make sure to adjust the `quantity` and `price_per_token` variables as per your requirements.
