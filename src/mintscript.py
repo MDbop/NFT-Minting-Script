@@ -4,7 +4,7 @@ import os
 import time
 
 # Load environment variables from .env file
-load_dotenv('t.env')
+load_dotenv('.env')
 
 # Ethereum network connection
 alchemy_url = os.environ['ALCHEMY_API_URL']
