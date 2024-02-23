@@ -1,6 +1,6 @@
 # NFT Minting Script
 
-This Python script facilitates the minting of NFTs from multiple wallets on the EVM blockchains by interacting with a smart contract in desired interval. It uses the Web3.py library to connect to an EVM node via Alchemy, send transactions, and interact with the smart contract responsible for minting NFTs.
+This Python script facilitates the minting of NFTs from **multiple wallets** on the EVM blockchains by interacting with a smart contract in **desired interval**. It uses the Web3.py library to connect to an EVM node via Alchemy, send transactions, and interact with the smart contract responsible for minting NFTs.
 
 ## Features
 
